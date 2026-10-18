@@ -10,10 +10,7 @@ coaches your pronunciation, and at the end gives you a **score, CEFR level (A1â€
 
 ## Run
 
-Double-click **`start.bat`**. It starts Ollama, downloads the model the first time (about 3.3 GB), and opens
-http://localhost:8000. Use **Chrome or Edge** and allow the microphone.
-
-Manual alternative: `ollama pull gemma3:4b`, then `python server.py`.
+.exe file
 
 ## How to use
 
